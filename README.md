@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **cenkayla/cenkayla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -17,4 +16,3 @@ Here are some ideas to get you started:
 ![Github Statistics](https://github-readme-stats.vercel.app/api/?username=cenkayla&count_private=true&show_icons=true)
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=cenkayla&hide_border=true)
--->

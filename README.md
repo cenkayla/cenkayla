@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Go
 - 🌱 I’m currently learning Go, Vue, AWS, CI/CD
 - 📫 How to reach me: ...

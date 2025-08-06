@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Go
-- 🌱 I’m currently learning Go, Vue, AWS, CI/CD
 - 📫 How to reach me: ...
  <a href="https://www.linkedin.com/in/cenk-ayla/" target="_blank" rel="nofollow"><img alt="Cenk's Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:cenk.ayla2@gmail.com" target="_blank" rel="nofollow"><img alt="Cenk's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
